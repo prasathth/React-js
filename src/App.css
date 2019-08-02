@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+  font-size:20px;
+  background-color:grey;
+  text-align: center;
+}
+
+.left{
+  float: right;
+}
+
+.foot{
+  font-size:20px;
+  background-color:greenyellow;
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  text-align: center;
+}
+
+.col-md-4{
+  text-align : center;
+}
